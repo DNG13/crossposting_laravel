@@ -1,0 +1,15 @@
+ p > a{
+     color:black;
+     font-weight:bold;
+ }
+ ul > li > a
+ {
+     color:black;
+ }
+ body > div.alert{
+     font-weight:bold;
+     text-align: center;
+ }
+.jumbotron,  div.container > div > h2{
+    text-align: center;
+}
